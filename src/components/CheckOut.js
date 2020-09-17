@@ -24,7 +24,7 @@ const CheckOut = ({almacen}) => {
                 {(descProd === '', notas === '')?
                     <Fragment>
                         <p>Agregar una descripción / nota</p>
-                        <button>Escribir</button> 
+                        <button>Añadir datos</button> 
                     </Fragment>
                 : 
                     <Fragment>
